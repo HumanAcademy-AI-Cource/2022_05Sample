@@ -5,7 +5,7 @@ text = input("食べ物の名前を入力: ")
 
 # if文で条件を指定する
 if text == "ばなな":
-    print("好き！")
+    print("好き!")
 
 if text == "なす":
-    print("苦手！")
+    print("苦手!")
